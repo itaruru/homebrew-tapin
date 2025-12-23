@@ -1,4 +1,4 @@
-cask "proxyman-610" do
+cask "proxyman-6.1.0" do
   version "6.1.0,60100"
   sha256 "ea95d4f5a926fb306515914d1c7a0992797a40017f586e22e9d3a072eef7476f"
 
